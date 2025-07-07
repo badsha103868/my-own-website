@@ -1,0 +1,19 @@
+h3{
+  text-align: center;
+ font-size: 4em;
+ color: tomato;
+}
+p{
+  background-color: aqua;
+  border: 10px;
+  padding: 10px;
+}
+div{
+  margin: 10px 10px;
+}
+.dream{
+  border: 10px solid aqua;
+  padding: 10px;
+  text-align: center;
+  margin: 0 auto;
+}
